@@ -1,0 +1,11 @@
+langchain
+langgraph
+langchain_community
+langchain_chroma
+langchain_core
+langchain_groq
+langchain_openai
+ipykernel
+streamlit
+tavily-python
+bs4
